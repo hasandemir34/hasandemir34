@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hasandemir34
-- 👀 I’m interested in game
+- 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning C# by Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
