@@ -2,8 +2,6 @@
 🚀 About Me
 🎓 Software Engineering Student at Sakarya University (2nd Year).
 
-👨‍💻 Currently building a Personal Portfolio using ASP.NET Core MVC & PostgreSQL.
-
 🤖 Working on a Machine Learning project for diabetes prediction.
 
 🏦 Developing a Bank Management System with JavaFX & JDBC.
