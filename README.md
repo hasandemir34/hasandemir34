@@ -1,5 +1,6 @@
 👋 Hi, I’m @hasandemir34
-🚀 About Me
+
+
 🎓 Software Engineering Student at Sakarya University (2nd Year).
 
 🤖 Working on a Machine Learning project for diabetes prediction.
