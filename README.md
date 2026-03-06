@@ -13,7 +13,7 @@
 
 🛠️ Tech Stack: Java, C#, SQL (PostgreSQL & MSSQL), Python.
 
-🎮 Huge fan of Age of Empires III – strategy is my middle name.
+
 <!---
 hasandemir34/hasandemir34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
