@@ -3,13 +3,9 @@
 
 🎓 Software Engineering Student at Sakarya University (2nd Year).
 
-🤖 Working on a Machine Learning project for diabetes prediction.
-
-🏦 Developing a Bank Management System with JavaFX & JDBC.
+🤖 Working on a Machine Learning project.
 
 👀 Interests: Data Science, Machine Learning, and AI Engineering.
-
-🌱 Learning: Currently mastering C# with Unity and deepening my knowledge in ASP.NET Core.
 
 🛠️ Tech Stack: Java, C#, SQL (PostgreSQL & MSSQL), Python.
 
