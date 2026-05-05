@@ -7,7 +7,7 @@
 
 👀 Interests: Data Science, Machine Learning, and AI Engineering.
 
-🛠️ Tech Stack: Java, C#, SQL (PostgreSQL & MSSQL), Python.
+🛠️ Tech Stack: C++, C#, SQL (PostgreSQL & MSSQL), Python.
 
 
 <!---
