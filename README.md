@@ -1,7 +1,7 @@
 👋 Hi, I’m @hasandemir34
 
 
-🎓 Software Engineering Student at Sakarya University (2nd Year).
+🎓 Software Engineering Student at Sakarya University.
 
 🤖 Working on a Machine Learning project.
 
