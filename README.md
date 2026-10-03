@@ -5,9 +5,9 @@
 
 🤖 Working on a Machine Learning project.
 
-👀 Interests: Data Science, Machine Learning, and AI Engineering.
+👀 Interests: Data Science, Machine Learning, and AI Engineering, Computer Vision
 
-🛠️ Tech Stack: C++, C#, SQL (PostgreSQL & MSSQL), Python.
+🛠️ Tech Stack: C++, Python, SQL
 
 
 <!---
