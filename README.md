@@ -1,6 +1,11 @@
-# Merhaba, ben Hasan 
+# Hi, I'm Hasan 
 
-Yazılım geliştiriyor ve yeni teknolojiler öğreniyorum.
+Exploring image processing and computer vision with Python.
+
+- 🐍 Building my Python skills
+- 👁️ Learning image processing and computer vision
+- 🛠️ Experimenting with OpenCV and NumPy
+- 🚀 Turning what I learn into small projects
 
 
 
