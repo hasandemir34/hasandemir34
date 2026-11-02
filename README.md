@@ -5,7 +5,6 @@ Exploring image processing and computer vision with Python.
 - 🐍 Building my Python skills
 - 👁️ Learning image processing and computer vision
 - 🛠️ Experimenting with OpenCV and NumPy
-- 🚀 Turning what I learn into small projects
 
 
 
